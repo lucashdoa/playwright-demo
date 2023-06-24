@@ -6,3 +6,4 @@ TC001 - Validate Name input
 TC002 - Validate Email input
 TC003 - Validate Phone input
 TC004 - Validate Address text area
+TC005 - Validate Gender radio
