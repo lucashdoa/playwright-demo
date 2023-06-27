@@ -7,3 +7,4 @@ TC002 - Validate Email input
 TC003 - Validate Phone input
 TC004 - Validate Address text area
 TC005 - Validate Gender radio
+TC006 - Validate Days checkbox
