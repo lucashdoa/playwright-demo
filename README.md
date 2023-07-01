@@ -10,3 +10,4 @@ Target Web App: https://testautomationpractice.blogspot.com/
 - TC006 - Validate Days checkbox
 - TC007 - Validate Country select
 - TC008 - Validate Colors multi select
+- TC009 - Validate Date select
