@@ -13,3 +13,4 @@ Target Web App: https://testautomationpractice.blogspot.com/
 - TC009 - Validate Date select
 - TC010 - Validate Home link
 - TC011 - Validate Web Table
+- TC012 - Validate Pagination Table
