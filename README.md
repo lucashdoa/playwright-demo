@@ -17,3 +17,4 @@ Target Web App: https://testautomationpractice.blogspot.com/
 - TC013 - Validate search bar
 - TC014 - Validate New Browser Window button
 - TC015 - Validate JavaScript alert
+- TC016 - Validate JavaScript confirm box
