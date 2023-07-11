@@ -19,3 +19,4 @@ Target Web App: https://testautomationpractice.blogspot.com/
 - TC015 - Validate JavaScript alert
 - TC016 - Validate JavaScript confirm box
 - TC017 - Validate JavaScript prompt
+- TC018 - Validate double click field1
