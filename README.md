@@ -21,3 +21,4 @@ Target Web App: https://testautomationpractice.blogspot.com/
 - TC017 - Validate JavaScript prompt
 - TC018 - Validate double click field1
 - TC019 - Validate double click field2
+- TC020 - Validate Copy Text button
