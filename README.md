@@ -23,3 +23,4 @@ Target Web App: https://testautomationpractice.blogspot.com/
 - TC019 - Validate double click field2
 - TC020 - Validate Copy Text button
 - TC021 - Validate drag and drop
+- TC022 - Validate slider
