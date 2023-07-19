@@ -25,3 +25,4 @@ Target Web App: https://testautomationpractice.blogspot.com/
 - TC021 - Validate drag and drop
 - TC022 - Validate slider
 - TC023 - Validate form inside frame
+- TC024 - Validate resizable area
